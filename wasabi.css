@@ -1,0 +1,56 @@
+div.box1 {
+background-color: lightgrey;
+width: 900px;
+padding: 50px;
+margin: 50px 200px;
+border-radius: 25px
+}
+
+div.box2 {
+background-color: lightgrey;
+width: 900px;
+padding: 50px;
+margin: 50px 200px;
+border-radius: 25px
+}
+
+body {
+  background-color: #ff9a6b;
+  background-image: url('actualbackground.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #3c8b65;
+  font-family: 'Inter', sans-serif;
+}
+
+h2 {
+  text-transform: uppercase;
+  color: #3c8b65;
+  font-family: 'Inter', sans-serif;
+}
+
+h3 {
+  text-transform: uppercase;
+  color: #3c8b65;
+  font-family: 'Inter', sans-serif;
+}
+
+p {
+  text-align: justify;
+  letter-spacing: 2px;
+  font-family: 'Inter', sans-serif;
+}
+
+ul {
+  letter-spacing: 3px;
+}
+
+img {
+  border-radius: 25px
+}
